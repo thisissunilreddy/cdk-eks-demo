@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        "**/build": true,
+        "**/.git": true,
+        "**/*.egg-info": true,
+        "**/dist": false,
+        "**/.DS_Store": true,
+        "**/__pycache__": true
+    },
+    "python.pythonPath": "/home/sdonuru/.local/share/virtualenvs/cdk-eks-demo-JHGpP7Fp/bin/python",
+    "files.watcherExclude": {
+        "**/**/*": true
+    },
+    "files.trimTrailingWhitespace": false
+}
+
+
+

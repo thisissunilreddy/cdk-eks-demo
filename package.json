@@ -1,0 +1,8 @@
+{
+    "name": "cdk-eks",
+    "version": "1.0.0",
+    "description": "CDK for EKS",
+    "dependencies": {
+        "aws-cdk": "*"
+    }
+}
